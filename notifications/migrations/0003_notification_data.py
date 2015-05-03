@@ -16,6 +16,6 @@ class Migration(migrations.Migration):
             model_name='notification',
             name='data',
             field=jsonfield.fields.JSONField(null=True, blank=True),
-            preserve_default=True,
+            preserve_default=False,
         ),
     ]
