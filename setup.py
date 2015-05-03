@@ -25,7 +25,7 @@ setup(name='django-notifications-hq',
           'django>=1.4',
           'django-model-utils>=2.0.3',
           'six>=1.9.0',
-          'jsonfield>=1.0.3',
+          'jsonfield>=0.9.23',
           'pytz'
       ],
 
