@@ -18,14 +18,14 @@ setup(name='django-notifications-hq',
           'django>=1.4',
           'django-model-utils>=2.0.3',
           'six>=1.9.0',
-          'jsonfield>=0.9.23',
+          'django-jsonfield>=0.9.13',
       ],
 
       test_requires=[
           'django>=1.4',
           'django-model-utils>=2.0.3',
           'six>=1.9.0',
-          'jsonfield>=0.9.23',
+          'django-jsonfield>=0.9.13',
           'pytz'
       ],
 
